@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="head__part">
+            <h3 class="head__h3">banquee.</h3>
+            <div class="head__a">
+                <a class="link " href="#">Features</a>
+                <a class="link abc " href="#">Compare <img class="link__pic" src="arrow down.png" alt=""></a>
+                <a class="link " href="#">Support</a>
+                <a class="link " href="#">Blog <img class="link__pic" src="arrow down.png" alt=""></a>
+            </div>
+            <div>
+                <a class="head__a1" href="">link</a>
+                <button class="head__btn">Open Account</button>
+            </div>
+        </header>
+        <nav class="body">
+            <h2 class="body__h2">blog</h2>
+        </nav>
+        <nav class="body__2">
+            <div class="body__head">
+                <h3 class="body__h3">Categories</h3>
+                <div class="body__links">
+                    <a class="body__link a" href="#">all</a>
+                    <a class="body__link b" href="#">product</a>
+                    <a class="body__link c" href="#">technology</a>
+                    <a class="body__link " href="#">app</a>
+                </div>
+            </div>
+        </nav>
+        <nav class="posts__divs">
+            <div class="div">
+                <img class="nav__img" src="post.png" alt="">
+                <h3 class="nav__h3">How To Start Using Banko For Your Startup</h3>
+                <p class="nav__p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui accumsan sit amet nulla facilisi morbi.</p>
+                <div class="nav__btns">
+                    <button class="nav__btn">app</button>
+                    <button class="nav__btn">technology</button>
+                </div>
+            </div>
+            <div class="div">
+                <img class="nav__img" src="post1.png" alt="">
+                <h3 class="nav__h3">10 Things Nobody Told You About Banko</h3>
+                <p class="nav__p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui accumsan sit amet nulla facilisi morbi.</p>
+                <div class="nav__btns">
+                    <button class="nav__btn">technology</button>
+                </div>
+            </div>
+            <div class="div">
+                <img class="nav__img" src="post2.png" alt="">
+                <h3 class="nav__h3">How To Start Using Banko For Your Startup</h3>
+                <p class="nav__p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui accumsan sit amet nulla facilisi morbi.</p>
+                <div class="nav__btns">
+                    <button class="nav__btn">app</button>
+                    <button class="nav__btn">technology</button>
+                </div>
+            </div>
+        </nav>
+        <nav class="posts__divs">
+            <div class="div">
+                <img class="nav__img" src="post3.png" alt="">
+                <h3 class="nav__h3">Why We Love Banko (And You Should, Too!)</h3>
+                <p class="nav__p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui accumsan sit amet nulla facilisi morbi.</p>
+                <div class="nav__btns">
+                    <button class="nav__btn">product</button>
+                    <button class="nav__btn">technology</button>
+                </div>
+            </div>
+            <div class="div">
+                <img class="nav__img" src="post4.png" alt="">
+                <h3 class="nav__h3">5 Principles Of Crypto Investing</h3>
+                <p class="nav__p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui accumsan sit amet nulla facilisi morbi.</p>
+                <div class="nav__btns">
+                    <button class="nav__btn">app</button>
+                </div>
+            </div>
+            <div class="div">
+                <img class="nav__img" src="post5.png" alt="">
+                <h3 class="nav__h3">7 Things About Banko Your Friends Want To Know</h3>
+                <p class="nav__p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui accumsan sit amet nulla facilisi morbi.</p>
+                <div class="nav__btns">
+                    <button class="nav__btn">technology</button>
+                </div>
+            </div>
+        </nav>
+        <footer class="end">
+            <h2 class="head__h4">banquee.</h2>
+            <div class="end__footer d">
+                <a class="end__link" href="#">about</a>
+                <p>Features</p>
+                <p>pricing</p>
+                <p>support</p>
+            </div>
+            <div  class="end__footer f">
+                <a class="end__link" href="#">blog</a>
+                <p>products</p>
+                <p>technology</p>
+                <p>Crypto</p>
+            </div>
+            <div  class="end__footer h">
+                <a class="end__link" href="#">webflow</a>
+                <p>styleguide</p>
+                <p>licensing</p>
+                <p>changelog</p>
+            </div>
+            <div  class="end__footer">
+                <a class="end__link" href="#">social media</a>
+                <p>twitter</p>
+                <p>facebook</p>
+                <p>instagram</p>
+            </div>
+        </footer>
+        <footer class="end1">
+            <p class="p1"> &copy; Made by <span class="span">Pawel Gola</span> - Powered by <span class="span">Webflow</span></p>
+            <div class="end2">
+                <p class="p">Impressum</p>
+                <p class="p2">Datenschutz</p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
